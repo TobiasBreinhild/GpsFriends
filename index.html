@@ -1,16 +1,54 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
-        <script src="./script.js"></script>
-    </head>
-    <h1>Version 1.9</h1>
-    <canvas id="myCanvas" width="400" height="600" style="border: 5px solid #000000;"></canvas>
+<body>
+
+    <h1>Version 2.0</h1>
+    <canvas id="myCanvas" width="200" height="300" style="border: 5px solid #000000;"></canvas>
 
     <br>
-    <label for="username">Name:</label><br>
+    <label id="usernameLabel" for="username">Name:</label><br>
     <input type="text" id="username" name="username" value="Insert name here"><br>
     
-    <input type="submit" value="Submit" onclick="WriteInCanvas()">
-    <h1 id="demo"></h1>
+    <input id="loginButton" type="submit" value="Submit" onclick="WriteInCanvas()">
+    <input id="locationButton" type="submit" value="GetLocations" onclick="getLocation()" style="visibility: collapse;">
+    <br>
+    <label>Your location:</label>
+    <p id="demo"></p>
+
+
+<script>
+  var x = document.getElementById("demo");
+
+  function WriteInCanvas(){
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.clearRect(0, 0, 400, 600);
+
+    if(document.getElementById("username").value == "test"){
+        ctx.font = "15px Arial";
+        ctx.fillText("Welcome, " + document.getElementById("username").value, 10, 30);
+        document.getElementById("username").style.visibility = "collapse";
+        document.getElementById("usernameLabel").style.visibility = "collapse";
+        document.getElementById("loginButton").style.visibility = "collapse";
+        document.getElementById("locationButton").style.visibility = "visible";
+    } else {
+        ctx.font = "15px Arial";
+        ctx.fillText("Wrong username", 10, 30);
+    }
+  }
+  function getLocation() {
+      if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(showPosition);
+      } else {
+          x.innerHTML = "Geolocation is not supported by this browser.";
+      }
+  }
+  function showPosition(position) {
+      x.innerHTML = "Latitude: " + position.coords.latitude +
+               "<br>Longitude: " + position.coords.longitude;
+  }
+</script>
+
+</body>
 </html>
