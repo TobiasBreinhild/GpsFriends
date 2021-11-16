@@ -23,8 +23,8 @@ function WriteInCanvas(){
     }
     
     function showPosition(position) {
-        x.innerHTML = "Latitude: " + position.coords.latitude +
-                 "<br>Longitude: " + position.coords.longitude;
+        x.fillText("Latitude: " + position.coords.latitude +
+                 "<br>Longitude: " + position.coords.longitude);
     }
 
     function showError(error) {
