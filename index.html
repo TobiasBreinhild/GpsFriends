@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 
 <html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <title></title>
+</head>
 <body>
 
-    <h1>Version 2.0</h1>
+    <h1>Version 2.1</h1>
     <canvas id="myCanvas" width="200" height="300" style="border: 5px solid #000000;"></canvas>
 
     <br>
@@ -48,7 +53,28 @@
       x.innerHTML = "Latitude: " + position.coords.latitude +
                "<br>Longitude: " + position.coords.longitude;
   }
+
+  function SendToCodeBehind(person, isAttending, returnEmail)
+        {
+            var dataValue = "{ name: '" + person + "', isGoing: '" + isAttending + "', returnAddress: '" + returnEmail + "' }";
+            $.ajax({
+                type: "POST",
+                url: "AjaxModtager.aspx/OnSubmit",
+                data: dataValue,
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("Request: " + XMLHttpRequest.toString() + "\n\nStatus: " + textStatus + "\n\nError: " +   
+                    errorThrown);
+                },
+                success: function (result) {
+                    alert("We returned: " + result.d);
+                }
+            });
+        }
+
 </script>
+<button onclick="SendToCodeBehind('ole', 'false', 'jensen')">Click me</button>
 
 </body>
 </html>
