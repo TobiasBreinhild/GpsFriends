@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1>Version 2.1</h1>
+    <h1>Version 2.2</h1>
     <canvas id="myCanvas" width="200" height="300" style="border: 5px solid #000000;"></canvas>
 
     <br>
@@ -20,6 +20,9 @@
     <br>
     <label>Your location:</label>
     <p id="demo"></p>
+
+    
+    <button onclick="SendToCodeBehind('ole', 'false', 'jensen')">Click me</button>
 
 
 <script>
@@ -65,7 +68,7 @@
                 dataType: 'json',
                 error: function (XMLHttpRequest, textStatus, errorThrown) {
                     alert("Request: " + XMLHttpRequest.toString() + "\n\nStatus: " + textStatus + "\n\nError: " +   
-                    errorThrown);
+                    errorThrown + "This doesn't work");
                 },
                 success: function (result) {
                     alert("We returned: " + result.d);
@@ -74,7 +77,6 @@
         }
 
 </script>
-<button onclick="SendToCodeBehind('ole', 'false', 'jensen')">Click me</button>
 
 </body>
 </html>
