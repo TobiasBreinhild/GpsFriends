@@ -1,0 +1,18 @@
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\GpsFriends Too.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\GpsFriends Too.deps.json
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\GpsFriends Too.runtimeconfig.json
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\GpsFriends Too.runtimeconfig.dev.json
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\GpsFriends Too.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\bin\Debug\netcoreapp3.1\GpsFriends Too.pdb
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.csprojAssemblyReference.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\staticwebassets\GpsFriends Too.StaticWebAssets.Manifest.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\staticwebassets\GpsFriends Too.StaticWebAssets.xml
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.AssemblyInfoInputs.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.AssemblyInfo.cs
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.RazorTargetAssemblyInfo.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriends Too\GpsFriends Too\obj\Debug\netcoreapp3.1\GpsFriends Too.pdb

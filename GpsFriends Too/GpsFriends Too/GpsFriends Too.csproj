@@ -5,4 +5,12 @@
     <RootNamespace>GpsFriends_Too</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="AjaxModtager.aspx.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AjaxModtager.aspx.cs" />
+  </ItemGroup>
+
 </Project>
