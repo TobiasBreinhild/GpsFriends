@@ -1,0 +1,116 @@
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\GpsFriendsAgainAgain.dll.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\GpsFriendsAgainAgain.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\GpsFriendsAgainAgain.pdb
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\csc.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\csc.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\csc.rsp
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\csi.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\csi.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\csi.rsp
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.AppContext.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Console.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.IO.Compression.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Net.Http.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.ValueTuple.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\vbc.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\vbc.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\vbc.rsp
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\VBCSCompiler.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.csprojAssemblyReference.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.csproj.CopyComplete
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GpsFriendsAgainAgain\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.pdb
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\GpsFriendsAgainAgain.dll.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\GpsFriendsAgainAgain.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\GpsFriendsAgainAgain.pdb
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\csc.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\csc.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\csc.rsp
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\csi.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\csi.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\csi.rsp
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.AppContext.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Console.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.IO.Compression.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Net.Http.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.ValueTuple.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\vbc.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\vbc.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\vbc.rsp
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\VBCSCompiler.exe
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.csprojAssemblyReference.cache
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.csproj.CopyComplete
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.dll
+C:\Users\tbbr.skp\Desktop\Skole\H3 Anden gang\GUI\GPS Friends\GpsFriends\GpsFriendsAgainAgain\obj\Debug\GpsFriendsAgainAgain.pdb
