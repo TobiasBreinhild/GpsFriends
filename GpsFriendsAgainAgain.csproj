@@ -79,6 +79,7 @@
     <Compile Include="AjaxModtager.aspx.designer.cs">
       <DependentUpon>AjaxModtager.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

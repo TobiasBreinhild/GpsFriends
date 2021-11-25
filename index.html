@@ -6,21 +6,40 @@
     <title></title>
 </head>
 <body>
-    <button onclick="SendToCodeBehind('Tobias', 'no', 'Some Text')">Click me</button>
-    <p id="demo">Your location will show up here</p>
-    <p id="updateCount">Function updates will show up here</p>
-    <script>
+    <p id="ifNotWorking"></p>
 
-        setInterval(getLocation, 10000)
+    <input type="text" id="loginText" />
+    <input type="submit" value="Submit" id="loginButton" onclick="LoginFunc()" />
+
+    <button id="serverButton" onclick="SendToCodeBehind(document.getElementById('loginText').value, showPosition.longitudeValue.innerHTML, showPosition.latitudeValue.innerHTML, 1)" style="visibility: collapse;">Click me</button>
+    <p id="demo">Your location will show up here (if it works)</p>
+    <p id="updateCount">Function updates will show up here (if it works)</p>
+    <br/>
+    <p id="serverResponse">Works?</p>
+
+    <script>
 
         var x = document.getElementById("demo");
 
         var updateAmount = document.getElementById("updateCount");
 
-        var i = 1;
+        var count = 1;
 
-        function SendToCodeBehind(person, isAttending, returnEmail) {
-            var dataValue = "{ name: '" + person + "', isGoing: '" + isAttending + "', returnAddress: '" + returnEmail + "' }";
+        function LoginFunc() {
+            if (document.getElementById("loginText").value == "test" || document.getElementById("loginText").value == "Tobias") {
+
+                setInterval(getLocation, 10000)
+                document.getElementById("ifNotWorking").innerHTML = ""
+                document.getElementById("serverButton").style.visibility = "visible"
+        
+            } else {
+                document.getElementById("ifNotWorking").innerHTML = "If-statement doesn't work"
+
+            }
+        }
+        
+        function SendToCodeBehind(person, getLongitude, getLatitude, isThisMe) {
+            var dataValue = "{ name: '" + person + "', longitude: '" + getLongitude + "', latitude: '" + getLatitude + "', thisIsMe: '" + isThisMe + " } ";
             $.ajax({
                 type: "POST",
                 url: "AjaxModtager.aspx/OnSubmit",
@@ -36,6 +55,8 @@
                 }
             });
 
+            document.getElementById("serverResponse").innerHTML = dataValue
+
         }
 
         function getLocation() {
@@ -44,15 +65,18 @@
             } else {
                 x.innerHTML = "Geolocation is not supported by this browser.";
             }
-            
-            updateAmount.innerHTML = "Function updates: " + i;
-            i++
+
+            updateAmount.innerHTML = "Function updates: " + count;
+            count++
         }
 
         function showPosition(position) {
+
             x.innerHTML = "Latitude: " + position.coords.latitude +
                 "<br>Longitude: " + position.coords.longitude;
         }
+
+
     </script>
 </body>
 </html>

@@ -16,9 +16,9 @@ namespace GpsFriendsAgainAgain
         }
 
         [WebMethod]
-        public static string OnSubmit(string name, bool isGoing, string returnAddress)
+        public static string OnSubmit(string name, string longitude, string latitude, int thisIsMe)
         {
-            return name + ", " + returnAddress + " and is going: " + isGoing;
+            return "Name: " + name + "\nLongitude: " + longitude + "\nLatitude: " + latitude + "\nthisIsMe: " + thisIsMe;
         }
 
     }
